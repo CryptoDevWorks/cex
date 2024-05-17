@@ -21,7 +21,7 @@ cd /app/opencex || exit
 git clone  https://github.com/CryptoDevWorks/cex-backend.git ./backend
 git clone  https://github.com/CryptoDevWorks/cex-frontend.git ./frontend
 git clone  https://github.com/CryptoDevWorks/cex-static.git ./nuxt
-git clone  https://github.com/CryptoDevWorks/cex-JS-admin.git ./admin
+git clone  https://github.com/CryptoDevWorks/JS-admin.git ./admin
 
 echo "`cat <<YOLLOPUKKI
 
